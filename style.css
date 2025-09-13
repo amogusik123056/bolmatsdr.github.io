@@ -1,0 +1,55 @@
+body { background-color: rgb(26, 26, 26);}
+
+button { width: 135px;
+height: 30px;
+background-color: rgb(49, 109, 49);
+border-radius: 10px;
+    }
+.result {
+color: white;
+margin-left: 400px;
+}
+.gay {
+margin-left: 225px;
+margin-top: 3px;
+}
+.hey {  
+border-color: rgb(56, 85, 85);
+color:rgb(56, 85, 85) ;
+background-color: rgb(26, 26, 26);
+width: 550px;
+margin-left: 220px;
+margin-top: 3px;
+}
+
+input { 
+ margin-left: 200px;
+ width: 600px;
+ border-radius: 10px;
+ height: 40px;
+ background-color: white;
+}
+
+.haha { 
+background-color: rgb(141, 54, 54);
+margin-top: 3px;
+
+}
+h1 { 
+color: white;
+margin-left: 370px;}
+.haha:hover {
+background-color: rgb(97, 36, 36)
+}
+.hey:hover {
+background-color: rgb(10, 10, 10)
+}
+.gay:hover {
+background-color: rgb(32, 71, 32);
+}
+input:hover {
+    background-color: rgb(204, 204, 204);
+}
+.myau {
+    background-color: blueviolet;
+}
